@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_in_failed">Sign in failed</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="feed">Feed</string>
+    <string name="new_post">New Post</string>
+    <string name="post">Post</string>
+    <string name="type_here">Type here</string>
+    <string name="empty_post_message">Post cannot be empty. Please add some content!</string>
+    <string name="empty_comment_message">Comment cannot be empty. Please add some content!</string>
+    <string name="posted_successfully">Posted successfully!</string>
+    <string name="posting_failed">Posted could not be saved to the database!</string>
+    <string name="post_details">Post Details</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="comments">Comments</string>
+    <string name="add_comment">Add Comment</string>
+    <string name="comment">Comment…</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="signupwithemail">SIGN UP WITH EMAIL</string>
+    <string name="facebook_app_id">451233819590606</string>
+    <string name="fb_login_protocol_scheme">fb451233819590606</string>
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">YOUR_APP_ID</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fbYOUR_APP_ID</string>
+
+
+    <!--    <string name="facebook_app_id">451233819590606</string>-->
+
+</resources>
